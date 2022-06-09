@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "fs": "^0.0.1-security",
+    "ping": "^0.4.2",
+    "yourls": "^1.0.2"
+  }
+}
